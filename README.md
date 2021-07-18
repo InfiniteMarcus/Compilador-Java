@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante a disciplina de Compiladores, no curso de 
 
 ### Linguagem K
 
-Diante do fato deste projeto ter sido feito em uma disciplina ofertada em ambiente acadêmico, não é possível fornecer detalhes específicos da linguagem utilizada como código de entrada do compilador. Esta linguagem é uma linguagem de programação ficcional, criada para
+Diante do fato deste projeto ter sido feito em uma disciplina ofertada em ambiente acadêmico, não é possível fornecer detalhes específicos da linguagem de programação utilizada como código de entrada do compilador. Esta linguagem é ficcional, criada para fins didáticos, baseando-se em linguagens comumente tipadas estaticamente e de paradigma estrutural.
 
 No entanto, aqui há uma lista de recursos comuns a outras linguagens de programação e que são suportados por esta linguagem:
 
